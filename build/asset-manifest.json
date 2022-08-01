@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53dfcd76.chunk.css",
+    "main.js": "/static/js/main.7e8f8b15.chunk.js",
+    "main.js.map": "/static/js/main.7e8f8b15.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.00d304ca.js",
+    "runtime-main.js.map": "/static/js/runtime-main.00d304ca.js.map",
+    "static/js/2.09eecb38.chunk.js": "/static/js/2.09eecb38.chunk.js",
+    "static/js/2.09eecb38.chunk.js.map": "/static/js/2.09eecb38.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.53dfcd76.chunk.css.map": "/static/css/main.53dfcd76.chunk.css.map",
+    "static/js/2.09eecb38.chunk.js.LICENSE.txt": "/static/js/2.09eecb38.chunk.js.LICENSE.txt",
+    "static/media/Kondziu.8c73a978.png": "/static/media/Kondziu.8c73a978.png",
+    "static/media/Michu.3fdfb4bc.jpg": "/static/media/Michu.3fdfb4bc.jpg",
+    "static/media/image-1.d012a506.jpeg": "/static/media/image-1.d012a506.jpeg",
+    "static/media/react-1.cf7b6bd1.jpg": "/static/media/react-1.cf7b6bd1.jpg",
+    "static/media/yellow-button.8f9b2465.png": "/static/media/yellow-button.8f9b2465.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00d304ca.js",
+    "static/js/2.09eecb38.chunk.js",
+    "static/css/main.53dfcd76.chunk.css",
+    "static/js/main.7e8f8b15.chunk.js"
+  ]
+}
