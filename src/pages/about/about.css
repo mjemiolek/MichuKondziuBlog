@@ -1,0 +1,49 @@
+.about {
+    height: 100vh;
+}
+
+.aboutWrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.aboutLeftSide,
+.aboutRightSide {
+    width: 37%;
+    height: 1000px;
+    margin: 95px 15px;
+    -webkit-box-shadow: 0px 0px 3px -2px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 0px 0px 3px -2px rgba(0, 0, 0, 1);
+    box-shadow: 0px 0px 3px -2px rgba(0, 0, 0, 1);
+    position: relative;
+}
+
+.aboutPhoto {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+.introduction {
+    font-family: "Josefin Sans", sans-serif;
+    position: absolute;
+    top: 35%;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    text-shadow: 1px 1px 2px red, 0 0 1em black, 0 0 0.4em green;
+}
+
+.aboutBoldText {
+    padding: 25px 0px 10px 30px;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.aboutText {
+    padding: 10px;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 20px;
+}

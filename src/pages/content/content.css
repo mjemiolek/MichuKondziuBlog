@@ -1,0 +1,18 @@
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+.bigText {
+    padding: 20px;
+    font-family: "Lora", sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.smallText {
+    padding: 30px;
+    font-family: "Lora", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}

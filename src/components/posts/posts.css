@@ -1,0 +1,14 @@
+.leftPosts,
+.rightPosts {
+    flex: 6;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    justify-content: center;
+}
+
+.middle {
+    background-color: #eee;
+    width: 5px;
+    border-radius: 2px;
+}
