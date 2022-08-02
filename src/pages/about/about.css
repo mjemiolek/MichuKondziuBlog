@@ -27,7 +27,7 @@
 .introduction {
     font-family: "Josefin Sans", sans-serif;
     position: absolute;
-    top: 35%;
+    top: 30%;
     width: 100%;
     text-align: center;
     color: white;
@@ -46,4 +46,30 @@
     padding: 10px;
     font-family: "Josefin Sans", sans-serif;
     font-size: 20px;
+}
+
+@media (max-width: 1350px) {
+
+    .aboutPhoto {
+        height: 150px;
+    }
+
+    .introduction {
+        top: 22%;
+        font-size: 12px;
+    }
+
+    .aboutBoldText {
+        padding: 10px 0px 10px 20px;
+        font-size: 14px;
+    }
+
+    .aboutText {
+        font-size: 10px;
+    }
+
+    .aboutLeftSide,
+    .aboutRightSide {
+        height: 500px;
+    }
 }

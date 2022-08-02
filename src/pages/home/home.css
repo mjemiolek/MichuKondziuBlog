@@ -2,13 +2,6 @@
     display: flex;
 }
 
-.headerImg {
-    width: 100%;
-    height: 450px;
-    margin-top: 80px;
-    object-fit: cover;
-}
-
 .homeNames {
     display: flex;
 }
@@ -20,4 +13,11 @@
     font-family: "Lora", sans-serif;
     font-size: 50px;
     color: #444;
+}
+
+@media (max-width: 1350px) {
+
+    .homeName {
+        font-size: 25px;
+    }
 }

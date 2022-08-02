@@ -29,3 +29,18 @@
   padding-bottom: 20px;
   object-fit: cover;
 }
+
+@media (max-width: 1350px) {
+
+  .headerImg {
+    height: 250px;
+  }
+
+  .headerTitleSm {
+    font-size: 20px;
+  }
+
+  .headerTitleLg {
+    font-size: 70px;
+  }
+}

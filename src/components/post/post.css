@@ -53,3 +53,24 @@
   -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
 }
+
+@media (max-width: 1350px) {
+
+  .postImg {
+    height: 50px;
+  }
+
+  .postTitle {
+    font-size: 12px;
+  }
+
+  .postDesc {
+    font-size: 6px;
+    line-height: 10px;
+  }
+
+  .postDate {
+    font-size: 8px;
+  }
+
+}
