@@ -3,23 +3,26 @@ import img from "../../images/yellow-button.png";
 import "./topbar.css";
 
 export default function TopBar() {
+  const scroolTop = () => {
+    window.scrollTo(0, 0);
+  };
 
   return (
     <div className="top">
       <div className="topCenter">
         <ul className="topList">
           <li className="topListItem hover-underline-animation">
-            <Link className="link" to="/">
+            <Link className="link" to="/" onClick={scroolTop}>
               BLOG
             </Link>
           </li>
           <li className="topListItem hover-underline-animation">
-            <Link className="link" to="/about">
+            <Link className="link" to="/about" onClick={scroolTop}>
               O NAS
             </Link>
           </li>
           <li className="topListItem hover-underline-animation">
-            <Link className="link" to="/contact">
+            <Link className="link" to="/contact" onClick={scroolTop}>
               KONTAKT
             </Link>
           </li>

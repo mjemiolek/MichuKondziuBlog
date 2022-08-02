@@ -8,7 +8,78 @@ export default function M1() {
         <>
             <SinglePost img={img} author="Michu" date="01.08.2022" />
             <div className="content">
-                <div className="bigText">Miałem 10 lat gdy usłyszał o mnie świat.</div>
+                <div className="bigText">Miałem dziesięć lat
+                    Gdy usłyszał o nim świat
+                    W mej piwnicy był nasz klub
+                    Kumpel radio zniósł
+                    Usłyszałem blue suede shoes
+                    I nie mogłem w nocy spać
+                    Wiatr odnowy wiał (wujek Józek zmarł)
+                    Darowano reszty kar
+                    Znów się można było śmiać
+                    W kawiarniany gwar
+                    Jak tornado jazz się wdarł
+                    I ja też chciałem grać
+                    Ojciec, bóg wie gdzie
+                    Martenowski stawiał piec
+                    Mnie paznokieć z palca zszedł
+                    Z gryfu został wiór
+                    Grałem milion różnych bzdur
+                    I poznałem co to sex
+                    Pocztówkowy szał
+                    Każdy z nas ich pięćset miał
+                    Zamiast nowej pary jeans
+                    A w sobotnią noc
+                    Był Luxemburg, chata, szkło
+                    Jakże się chciało żyć!
+                    Było nas trzech
+                    W każdym z nas inna krew
+                    Ale jeden przyświecał nam cel
+                    Za kilka lat
+                    Mieć u stóp cały świat
+                    Wszystkiego w brud
+                    Alpagi łyk
+                    I dyskusje po świt
+                    Niecierpliwy w nas ciskał się duch
+                    Ktoś dostał w nos
+                    To popłakał się ktoś
+                    Coś działo się
+                    Poróżniła nas
+                    Za jej Poli Raksy twarz
+                    Każdy by się zabić dał
+                    W pewną letnią noc
+                    Gdzieś na dach wyniosłem koc
+                    I dostałem to, com chciał
+                    Powiedziała mi
+                    Że kłopoty mogą być
+                    Ja jej, że egzamin mam
+                    Odkręciła gaz
+                    Nie zapukał nikt na czas
+                    Znów jak pies, byłem sam
+                    Stu różnych ról
+                    Czym ugasić mój ból
+                    Nauczyło mnie życie jak nikt
+                    W wyrku na wznak
+                    Przechlapałem swój czas
+                    Najlepszy czas
+                    W knajpie dla braw
+                    Klezmer kazał mi grać
+                    Takie rzeczy że jeszcze mi wstyd
+                    Pewnego dnia
+                    Zrozumiałem, że ja
+                    Nie umiem nic
+                    Słuchaj mnie tam!
+                    Pokonałem się sam
+                    Oto wyśnił się wielki mój sen
+                    Tysięczny tłum
+                    Spija słowa z mych ust
+                    Kochają mnie
+                    W hotelu fan
+                    Mówi: "na taśmie mam
+                    To jak w gardłach im rodzi się śpiew"
+                    Otwieram drzwi
+                    I nie mówię już nic
+                    Do czterech ścian</div>
                 <div className="smallText">W mej piwnicy był nasz klub. Kumpel radio zniósł i nie mogłem w nocy spać bo cały czas tłukło.</div>
                 <div className="smallText">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil nam rem doloremque, explicabo impedit expedita repellendus omnis ipsam et optio vel quibusdam in? Magnam placeat magni hic dolore rerum nihil reiciendis atque eligendi libero tenetur dicta, odio, mollitia sequi enim perferendis? Nostrum numquam dicta odit unde non veritatis voluptatum error deserunt dolores blanditiis nihil esse quidem harum, iste accusantium. Illo consectetur voluptates atque soluta eveniet deserunt vel et tenetur ullam perferendis, quisquam quam fugit ipsum commodi eius ea sapiente voluptatem suscipit provident quas reprehenderit iste, autem, aperiam numquam? Debitis perspiciatis accusamus officia magni iste delectus libero corrupti, commodi aut eum pariatur repellendus veniam repellat architecto voluptatibus, ipsa modi qui quas magnam? Repellendus, reiciendis. Quis architecto natus commodi. Voluptatibus saepe dolorum, molestiae, ex commodi placeat dignissimos quas perferendis, earum sed similique voluptatum asperiores suscipit quod enim velit iure laboriosam ullam voluptas impedit distinctio. Tenetur aliquid animi atque culpa voluptas magnam cupiditate ut, accusamus adipisci dicta! Harum excepturi pariatur consequatur consectetur obcaecati nisi accusamus dolor inventore ullam cum. Consectetur, blanditiis numquam. Hic ipsam natus esse suscipit architecto corporis. Distinctio similique temporibus illum maiores, quos repudiandae vitae, harum commodi perspiciatis deleniti earum itaque reprehenderit laborum soluta autem quibusdam ipsum saepe. Asperiores fugiat assumenda quibusdam sunt debitis. Ipsam voluptatem ex amet nemo quasi laboriosam voluptatibus excepturi in exercitationem, laborum laudantium doloremque aliquid iste dicta nam, consectetur porro tenetur sed odit fugiat libero quidem sint corporis id? Est accusantium saepe voluptatem, officiis dolor dicta nihil! Nam doloremque aliquam officia fuga molestias minus in reiciendis ut cum mollitia sapiente vel, quisquam delectus commodi, consequatur explicabo, nesciunt accusamus eligendi! Minima aspernatur eum itaque cupiditate quaerat, veritatis iusto beatae maiores ea facere quidem aut? Ipsa, cupiditate sed maiores dolore doloribus reiciendis ad rem autem eum culpa tenetur, reprehenderit distinctio, cum minima perspiciatis! Nemo in iure magnam nulla ad nihil nobis minima dolor quisquam natus illo, itaque exercitationem, laborum reiciendis necessitatibus architecto ab iusto debitis esse. Error, neque. Nostrum, ut temporibus officiis tenetur possimus blanditiis autem corrupti eos quisquam dolorem exercitationem ducimus! Vel alias modi placeat neque illum sint culpa exercitationem cumque dolores obcaecati ea tempora aliquid velit officiis delectus corrupti, voluptatibus quia molestiae dolorem? Sed numquam amet tenetur officiis impedit! Eveniet delectus, dignissimos blanditiis reprehenderit ducimus expedita corporis eius consequatur rem laboriosam laudantium quisquam qui quidem voluptate voluptatem beatae unde nemo dolorem nihil repudiandae iure ratione exercitationem voluptatum deleniti. Fugiat labore porro repudiandae earum perferendis reprehenderit dolorum fugit?</div>
                 <div className="smallText">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil nam rem doloremque, explicabo impedit expedita repellendus omnis ipsam et optio vel quibusdam in? Magnam placeat magni hic dolore rerum nihil reiciendis atque eligendi libero tenetur dicta, odio, mollitia sequi enim perferendis? Nostrum numquam dicta odit unde non veritatis voluptatum error deserunt dolores blanditiis nihil esse quidem harum, iste accusantium. Illo consectetur voluptates atque soluta eveniet deserunt vel et tenetur ullam perferendis, quisquam quam fugit ipsum commodi eius ea sapiente voluptatem suscipit provident quas reprehenderit iste, autem, aperiam numquam? Debitis perspiciatis accusamus officia magni iste delectus libero corrupti, commodi aut eum pariatur repellendus veniam repellat architecto voluptatibus, ipsa modi qui quas magnam? Repellendus, reiciendis. Quis architecto natus commodi. Voluptatibus saepe dolorum, molestiae, ex commodi placeat dignissimos quas perferendis, earum sed similique voluptatum asperiores suscipit quod enim velit iure laboriosam ullam voluptas impedit distinctio. Tenetur aliquid animi atque culpa voluptas magnam cupiditate ut, accusamus adipisci dicta! Harum excepturi pariatur consequatur consectetur obcaecati nisi accusamus dolor inventore ullam cum. Consectetur, blanditiis numquam. Hic ipsam natus esse suscipit architecto corporis. Distinctio similique temporibus illum maiores, quos repudiandae vitae, harum commodi perspiciatis deleniti earum itaque reprehenderit laborum soluta autem quibusdam ipsum saepe. Asperiores fugiat assumenda quibusdam sunt debitis. Ipsam voluptatem ex amet nemo quasi laboriosam voluptatibus excepturi in exercitationem, laborum laudantium doloremque aliquid iste dicta nam, consectetur porro tenetur sed odit fugiat libero quidem sint corporis id? Est accusantium saepe voluptatem, officiis dolor dicta nihil! Nam doloremque aliquam officia fuga molestias minus in reiciendis ut cum mollitia sapiente vel, quisquam delectus commodi, consequatur explicabo, nesciunt accusamus eligendi! Minima aspernatur eum itaque cupiditate quaerat, veritatis iusto beatae maiores ea facere quidem aut? Ipsa, cupiditate sed maiores dolore doloribus reiciendis ad rem autem eum culpa tenetur, reprehenderit distinctio, cum minima perspiciatis! Nemo in iure magnam nulla ad nihil nobis minima dolor quisquam natus illo, itaque exercitationem, laborum reiciendis necessitatibus architecto ab iusto debitis esse. Error, neque. Nostrum, ut temporibus officiis tenetur possimus blanditiis autem corrupti eos quisquam dolorem exercitationem ducimus! Vel alias modi placeat neque illum sint culpa exercitationem cumque dolores obcaecati ea tempora aliquid velit officiis delectus corrupti, voluptatibus quia molestiae dolorem? Sed numquam amet tenetur officiis impedit! Eveniet delectus, dignissimos blanditiis reprehenderit ducimus expedita corporis eius consequatur rem laboriosam laudantium quisquam qui quidem voluptate voluptatem beatae unde nemo dolorem nihil repudiandae iure ratione exercitationem voluptatum deleniti. Fugiat labore porro repudiandae earum perferendis reprehenderit dolorum fugit?</div>

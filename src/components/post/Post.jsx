@@ -2,9 +2,13 @@ import "./post.css";
 import { Link } from "react-router-dom";
 
 export default function Post({ imgURL, category, postID, date, title, desc }) {
+  const scroolTop = () => {
+    window.scrollTo(0, 0);
+  };
+
   return (
     <div className="post">
-      <Link to={`/post/${postID}`} className="link">
+      <Link to={`/post/${postID}`} className="link" onClick={scroolTop}>
         <img className="postImg" src={imgURL} alt="" />
       </Link>
       <div className="postInfo">
